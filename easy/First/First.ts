@@ -1,0 +1,1 @@
+export type First<A extends readonly any[]> = A[0]
