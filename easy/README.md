@@ -2,3 +2,4 @@
 2. [Readonly](./Readonly)
 3. [TupleToObject](./TupleToObject)
 4. [First](./First)
+5. [LengthOfTuple](./LengthOfTuple)
