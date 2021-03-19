@@ -1,10 +1,10 @@
 ### Concat
 
-Implement the JavaScript `Array.conca`t function in the type system. A type takes the two arguments. The output should be a new array that includes inputs in ltr order
+Implement the JavaScript `Array.concat` function in the type system. A type takes the two arguments. The output should be a new array that includes inputs in ltr order
 
 ---
 
-Реализовать тип `First<T>`, который принимает массив `T` и возвращает тип первого элемента в массиве.
+Реализовать JavaScript методв `Array.concat` используя систему типов
 
 ---
 
