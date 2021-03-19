@@ -3,3 +3,4 @@
 3. [TupleToObject](./TupleToObject)
 4. [First](./First)
 5. [LengthOfTuple](./LengthOfTuple)
+6. [Awaited](./Awaited)
