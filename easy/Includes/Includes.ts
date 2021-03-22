@@ -1,0 +1,1 @@
+export type Includes<A extends any[], B> = B extends A[number] ? true : false;

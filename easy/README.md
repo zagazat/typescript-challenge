@@ -5,4 +5,6 @@
 5. [LengthOfTuple](./LengthOfTuple)
 6. [Awaited](./Awaited)
 7. [If](./If)
-7. [Concat](./Concat)
+8. [Concat](./Concat)
+9. [Includes](./Includes)
+
