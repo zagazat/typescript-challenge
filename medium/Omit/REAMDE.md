@@ -1,4 +1,4 @@
-### MyReturnType
+### MyOmit
 
 Implement the built-in Omit<T, K> generic without using it.
 
