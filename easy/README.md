@@ -7,4 +7,5 @@
 7. [If](./If)
 8. [Concat](./Concat)
 9. [Includes](./Includes)
+10. [Exclude](./Exclude)
 
